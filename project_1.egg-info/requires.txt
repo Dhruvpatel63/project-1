@@ -1,7 +1,0 @@
-numpy
-pandas
-python-dotenv
-setuptools
-mysql-connector-python
-pymysql
-scikit-learn
